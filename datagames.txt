@@ -1,0 +1,109 @@
+Apex Legends, Action, 2019, 7.4, 57.11,Apex Legends.jpg
+Assassin's Creed Valhalla, Role playing game, 2020, 8.1, 30,Assassin's Creed Valhalla.jpg
+Batman: Arkham Knight, Action,2015,9, 45,Batman Arkham Knight.jpg
+Call of Duty: Modern Warfare, Shooter, 2019, 8.4, 35.49,Call of Duty Modern Warfare.jpg
+Cuphead, Action, 2017, 8.6, 4,Cuphead.png
+Cyberpunk 2077, Role playing game, 2020, 8, 72,Cyberpunk 2077.jpg
+Days Gone, Action, 2019, 8.3, 70,Days Gone.jpg
+Death Stranding, Action, 2019, 8.8, 55,Death Stranding.jpg
+Detroit: Become Human, Action, 2018, 9.2, 41,Detroit Become Human.jpg
+Dying Light 2: Stay Human, Adventure, 2022, 7.9, 50.9,Dying Light 2 Stay Human.jpg
+Elden Ring, Role playing game,2022, 9.5,44.93,Elden Ring.jpg
+FIFA 23, Sports, 2022, 8.5, 14,FIFA.jpg
+Fallout 4, Role playing game, 2015, 8.6, 26.2,Fallout 4.jpg
+Far Cry 3, Action, 2012, 8.9, 8,Far Cry 3.jpg
+Far Cry 6, Adventure, 2021, 7.6, 39,Far Cry 6.jpg
+Final Fantasy VII Remake, Role playing game, 2020, 9, 100,Final Fantasy VII Remake.jpg
+Fortnite, Action, 2017, 4.9,6.69,Fortnite.jpg
+Genshin Impact, Action, 2020, 8.2, 9.81,Genshin Impact.jpg
+Ghost Recon: Wildlands, Action, 2017, 7.6, 43,Ghost Recon Wildlands.jpg
+Ghost of Tsushima, Role playing game, 2021, 9.3, 34.7,Ghost of Tsushima.jpg
+God of War, Adventure, 2018, 9.6, 45,God of War.jpg
+God of War: Ragnarök, Action, 2022, 9.6, 106,God of War Ragnarök.jpg
+Grand Theft Auto V, Open world, 2013, 9.5, 73,Grand Theft Auto V.jpg
+Grand Theft Auto: San Andreas, Action, 2004, 9.4, 22.7,Grand Theft Auto San Andreas.jpg
+Grand Theft Auto: Vice City, Action, 2002, 9.2, 2.39,Grand Theft Auto Vice City.jpg
+Horizon Forbidden West, Action, 2022, 9.2, 90,Horizon Forbidden West.jpg
+Horizon Zero Dawn, Adventure, 2017, 9.0, 64,HZD.jpg
+Injustice 2, Fighting, 2017, 8.5, 27.78,Injustice 2.jpg
+Kingdom Hearts III, Role playing games, 2019, 8.2, 40,Kingdom Hearts III.jpg
+L.A. Noire, Action, 2011, 8.7, 32.31,L.A. Noire.jpg
+Lego Star Wars: The Skywalker Saga, Action, 2022, 9, 40,Lego Star Wars The Skywalker Saga.jpg
+Marvel's Guardians of the Galaxy, Action, 2021, 8.7, 60,Marvel's Guardians of the Galaxy.jpg
+Marvel's Spider-man, Adventure, 2018, 9.2, 45,Spider-Man.jpg
+Metal Gear Solid V: The Phantom Pain, Action, 2015, 8.8, 25.1,Metal Gear Solid V The Phantom Pain.jpg
+Minecraft,Survival,2011,8.4,2,Minecraft.jpg
+Mortal Kombat 11, Fighting, 2019, 7.8, 43.41,Mortal Kombat 11.jpg
+MultiVersus, Fighting, 2022, 7.8, 7,MultiVersus.jpg
+Naruto Shippuden Ultimate Ninja Storm 4, Fighting, 2016, 9.1, 40,NSUNS4.jpg
+Persona 5 Royal, Role playing games, 2019, 10, 37.76,P5.jpg
+Predator: Hunting Grounds, Action, 2020, 6.1, 50,Predator Hunting Grounds.jpg
+Red Dead Redemption II, Action, 2018, 9.7, 150,rdr2.jpg
+Resident Evil Village, Action, 2021, 8.6, 29.4,Resident Evil Village.jpg
+Saints Row, Shooter, 2022, 4.3, 60.3,Saints Row.jpg
+Spider-Man: Miles Morales, Action, 2020, 8.5, 52,Spider-Man Miles Morales.jpg
+Star Wars Jedi: Fallen Order, Action, 2019, 8.5, 55,Star Wars Jedi Fallen Order.jpg
+Stray, Role playing games, 2022, 9.7,13,Stray.jpg
+The Dark Pictures: House of Ashes, Adventure, 2021,7.7, 30,The Dark Pictures House of Ashes.jpg
+The Elder Scrolls V: Skyrim, Role playing games, 2011, 9.4, 20,The Elder Scrolls V Skyrim.jpg
+The Last of Us, Action, 2022, 9.7, 47,The Last of Us.jpg
+The Last of Us: Part II, Action, 2020, 8.5, 100,The Last of Us Part II.jpg
+The Witcher 3: Wild Hunt, Action, 2015, 9.7,35,The Witcher 3 Wild Hunt.jpg
+Tiny Tina's Wonderlands, Shooter, 2022, 8.2, 29.66,Tiny Tina's Wonderlands.jpg
+Uncharted 4: A Thief's End, Action, 2016,9.5, 63,Uncharted4-AThief's End.jpg
+Yakuza: Like a Dragon, Action, 2020, 8.7, 43.9,Yakuza Like a Dragon.jpg
+null,null,null,null,null,blank.pngApex Legends, Action, 2019, 7.4, 57.11,Apex Legends.jpg
+Assassin's Creed Valhalla, Role playing game, 2020, 8.1, 30,Assassin's Creed Valhalla.jpg
+Batman: Arkham Knight, Action,2015,9, 45,Batman Arkham Knight.jpg
+Call of Duty: Modern Warfare, Shooter, 2019, 8.4, 35.49,Call of Duty Modern Warfare.jpg
+Cuphead, Action, 2017, 8.6, 4,Cuphead.png
+Cyberpunk 2077, Role playing game, 2020, 8, 72,Cyberpunk 2077.jpg
+Days Gone, Action, 2019, 8.3, 70,Days Gone.jpg
+Death Stranding, Action, 2019, 8.8, 55,Death Stranding.jpg
+Detroit: Become Human, Action, 2018, 9.2, 41,Detroit Become Human.jpg
+Dying Light 2: Stay Human, Adventure, 2022, 7.9, 50.9,Dying Light 2 Stay Human.jpg
+Elden Ring, Role playing game,2022, 9.5,44.93,Elden Ring.jpg
+FIFA 23, Sports, 2022, 8.5, 14,FIFA.jpg
+Fallout 4, Role playing game, 2015, 8.6, 26.2,Fallout 4.jpg
+Far Cry 3, Action, 2012, 8.9, 8,Far Cry 3.jpg
+Far Cry 6, Adventure, 2021, 7.6, 39,Far Cry 6.jpg
+Final Fantasy VII Remake, Role playing game, 2020, 9, 100,Final Fantasy VII Remake.jpg
+Fortnite, Action, 2017, 4.9,6.69,Fortnite.jpg
+Genshin Impact, Action, 2020, 8.2, 9.81,Genshin Impact.jpg
+Ghost Recon: Wildlands, Action, 2017, 7.6, 43,Ghost Recon Wildlands.jpg
+Ghost of Tsushima, Role playing game, 2021, 9.3, 34.7,Ghost of Tsushima.jpg
+God of War, Adventure, 2018, 9.6, 45,God of War.jpg
+God of War: Ragnarök, Action, 2022, 9.6, 106,God of War Ragnarök.jpg
+Grand Theft Auto V, Open world, 2013, 9.5, 73,Grand Theft Auto V.jpg
+Grand Theft Auto: San Andreas, Action, 2004, 9.4, 22.7,Grand Theft Auto San Andreas.jpg
+Grand Theft Auto: Vice City, Action, 2002, 9.2, 2.39,Grand Theft Auto Vice City.jpg
+Horizon Forbidden West, Action, 2022, 9.2, 90,Horizon Forbidden West.jpg
+Horizon Zero Dawn, Adventure, 2017, 9.0, 64,HZD.jpg
+Injustice 2, Fighting, 2017, 8.5, 27.78,Injustice 2.jpg
+Kingdom Hearts III, Role playing games, 2019, 8.2, 40,Kingdom Hearts III.jpg
+L.A. Noire, Action, 2011, 8.7, 32.31,L.A. Noire.jpg
+Lego Star Wars: The Skywalker Saga, Action, 2022, 9, 40,Lego Star Wars The Skywalker Saga.jpg
+Marvel's Guardians of the Galaxy, Action, 2021, 8.7, 60,Marvel's Guardians of the Galaxy.jpg
+Marvel's Spider-man, Adventure, 2018, 9.2, 45,Spider-Man.jpg
+Metal Gear Solid V: The Phantom Pain, Action, 2015, 8.8, 25.1,Metal Gear Solid V The Phantom Pain.jpg
+Minecraft,Survival,2011,8.4,2,Minecraft.jpg
+Mortal Kombat 11, Fighting, 2019, 7.8, 43.41,Mortal Kombat 11.jpg
+MultiVersus, Fighting, 2022, 7.8, 7,MultiVersus.jpg
+Naruto Shippuden Ultimate Ninja Storm 4, Fighting, 2016, 9.1, 40,NSUNS4.jpg
+Persona 5 Royal, Role playing games, 2019, 10, 37.76,P5.jpg
+Predator: Hunting Grounds, Action, 2020, 6.1, 50,Predator Hunting Grounds.jpg
+Red Dead Redemption II, Action, 2018, 9.7, 150,rdr2.jpg
+Resident Evil Village, Action, 2021, 8.6, 29.4,Resident Evil Village.jpg
+Saints Row, Shooter, 2022, 4.3, 60.3,Saints Row.jpg
+Spider-Man: Miles Morales, Action, 2020, 8.5, 52,Spider-Man Miles Morales.jpg
+Star Wars Jedi: Fallen Order, Action, 2019, 8.5, 55,Star Wars Jedi Fallen Order.jpg
+Stray, Role playing games, 2022, 9.7,13,Stray.jpg
+The Dark Pictures: House of Ashes, Adventure, 2021,7.7, 30,The Dark Pictures House of Ashes.jpg
+The Elder Scrolls V: Skyrim, Role playing games, 2011, 9.4, 20,The Elder Scrolls V Skyrim.jpg
+The Last of Us, Action, 2022, 9.7, 47,The Last of Us.jpg
+The Last of Us: Part II, Action, 2020, 8.5, 100,The Last of Us Part II.jpg
+The Witcher 3: Wild Hunt, Action, 2015, 9.7,35,The Witcher 3 Wild Hunt.jpg
+Tiny Tina's Wonderlands, Shooter, 2022, 8.2, 29.66,Tiny Tina's Wonderlands.jpg
+Uncharted 4: A Thief's End, Action, 2016,9.5, 63,Uncharted4-AThief's End.jpg
+Yakuza: Like a Dragon, Action, 2020, 8.7, 43.9,Yakuza Like a Dragon.jpg
+null,null,null,null,null,blank.png
