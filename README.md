@@ -1,4 +1,4 @@
-# Video Game Catalogue
+# GameSearch
 
 This Java application serves as a simple video game catalogue with basic CRUD (Create, Read, Update, Delete) functionality. Users can view, add, delete, and search for video games, and the application provides sorting options based on various criteria such as name, genre, release date, rating, and download size.
 A sample database of video games 'datagames.txt' is provided to demonstrate the functionality of the program.
