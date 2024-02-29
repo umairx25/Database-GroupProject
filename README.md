@@ -1,7 +1,7 @@
 # GameSearch
 
-This Java application serves as a simple video game catalogue with basic CRUD (Create, Read, Update, Delete) functionality. Users can view, add, delete, and search for video games, and the application provides sorting options based on various criteria such as name, genre, release date, rating, and download size.
-A sample database of video games 'datagames.txt' is provided to demonstrate the functionality of the program.
+This Java application serves as a dynamic video game catalogue with Create, Read, Update, Delete functionality. Users can view, add, delete, and search for video games, and the application provides sorting options based on various criteria such as name, genre, release date, rating, and download size.
+A sample database of video games 'game_info.csv' is provided to demonstrate the functionality of the program.
 ## Table of Contents
 
 - [Features](#features)
@@ -12,7 +12,7 @@ A sample database of video games 'datagames.txt' is provided to demonstrate the 
 
 ## Features
 
-- **Viewing Games:** The main interface displays a list of video games retrieved from a data file (`datagames.txt`).
+- **Viewing Games:** The main interface displays a list of video games retrieved from a data file (`game_info.csv`).
 - **Sorting:** Users can sort the displayed games based on different criteria such as name, genre, release date, rating, and download size. This is achieved through algorithms such as the merge sort and binary search.
 - **Adding Games:** Users can add new games to the catalogue, providing details such as name, genre, release date, rating, and download size. An option to add an image for the game is also available.
 - **Deleting Games:** Users can delete a game from the catalogue by entering its name.
